@@ -168,7 +168,7 @@ a.contato-msg:hover {
 .box-sobrenos {
   display: flex;
   justify-content: center;
-  height:100vh;
+  height:100%;
 }
 .box-sobrenos img {
   max-width: 100%;
@@ -178,6 +178,7 @@ a.contato-msg:hover {
 .box-tree {
   width: 50%;
   margin-top: 5rem;
+   height: 100vh;
 }
 .box-tree h2 {
   padding-left: 7rem;
